@@ -1,1 +1,37 @@
+  ____  ____  _   _ 
+ / ___||  _ \| \ | |
+| |    | | | |  \| |
+| |___ | |_| | |\  |
+ \____||____/|_| \_\
+-c'est quoi? 
+source: chatgpt (fleme d'ecrire)
+Un CDN, ou Content Delivery Network (réseau de diffusion de contenu en français), est un réseau de serveurs répartis dans différents endroits du monde qui ont pour objectif de livrer des contenus numériques (sites web, images, vidéos, fichiers, etc.) de manière plus rapide et plus fiable aux utilisateurs.
+
+Voici les points essentiels :
+	1.	Proximité géographique :
+Le CDN stocke une copie des fichiers sur des serveurs situés près des utilisateurs. Cela réduit le temps que met le contenu à voyager sur Internet. Par exemple, si tu es à Paris et que le serveur principal est aux États-Unis, le CDN peut te servir une copie depuis un serveur en France, ce qui est beaucoup plus rapide.
+	2.	Performance et vitesse :
+Comme les fichiers sont distribués sur plusieurs serveurs, les utilisateurs peuvent accéder au contenu plus rapidement, surtout pour des sites lourds ou très fréquentés.
+	3.	Disponibilité et fiabilité :
+Si un serveur tombe en panne, un autre serveur du CDN peut prendre le relais, ce qui réduit les risques que le site soit inaccessible.
+	4.	Réduction de la charge sur le serveur principal :
+Le serveur d’origine n’a pas à gérer toutes les demandes, car le CDN prend en charge une partie du trafic.
+	5.	Exemples concrets :
+	•	Netflix utilise un CDN pour diffuser ses vidéos rapidement à travers le monde.
+	•	Les sites e-commerce utilisent des CDN pour que leurs images et pages se chargent vite pour tous les clients.
+
+En résumé, un CDN accélère et sécurise l’accès à ton contenu sur Internet
+
+
+
+
+-multiple raccourcis
+//cdn 1
 https://cdn.jsdelivr.net/gh/scratch-os905/shortcuts@main/obtenir.shortcut.txt
+
+//cdn 2
+https://cdn.jsdelivr.net/gh/scratch-os905/shortcuts@main/Obtenir.link.txt?raw=1
+
+-posterboard
+//cdn 1
+https://cdn.jsdelivr.net/gh/scratch-os905/shortcuts@main/Posterboard.shortcut.txt?raw=1
