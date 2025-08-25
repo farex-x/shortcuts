@@ -15,6 +15,8 @@ https://cdn.jsdelivr.net/gh/scratch-os905/shortcuts@main/Obtenir.link.txt?raw=1
 //cdn 1
 https://cdn.jsdelivr.net/gh/scratch-os905/shortcuts@main/Posterboard.shortcut.txt?raw=1
 
+-caracteres speciaux
+https://cdn.jsdelivr.net/gh/scratch-os905/shortcuts@main/Caracteres.txt
 
 -c'est quoi? 
 source: chatgpt (fleme d'ecrire)
