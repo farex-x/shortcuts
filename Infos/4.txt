@@ -1,0 +1,19 @@
+BITCHAT
+
+Rejoins nous sur bitchat!
+
+IOS:
+1-ouvre l'appstore et recherche bitchat
+2-clique sur #mesh en haut a droite
+3-clique sur geohash
+4-entre fx
+5-clique "teleport"
+6- tu est maintenant dans le chat publique
+
+Android:
+1-ouvre le play store et recherche bitchat
+2-clique sur #mesh en haut a droite
+3-clique sur geohash
+4-entre fx
+5-clique "teleport"
+6- tu est maintenant dans le chat publique
