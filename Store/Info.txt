@@ -1,0 +1,5 @@
+require IOS 26.0.1 ou moins
+toutes versions
+toutes versions
+require IOS 18 ou moins
+toutes versions
